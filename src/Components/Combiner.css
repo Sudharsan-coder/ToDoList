@@ -1,0 +1,14 @@
+.container_black {
+  background-color: black;
+  color: white;
+ 
+}
+.container_white {
+  background-color: white;
+  color: black;
+}
+.main{
+  width: fit-content;
+  height: fit-content;
+  padding: 3%;
+}

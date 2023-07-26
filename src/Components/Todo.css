@@ -1,0 +1,25 @@
+.todo_list_values{
+  display: flex;
+  justify-content: space-between;  
+  margin-bottom: 10px;
+  align-items: center;
+}
+.buttons_on_todo{
+  border-radius: 8px;
+  border: 2px solid transparent;
+  padding: 0.5em 0.7em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #2e92d0;
+  cursor: pointer;
+  transition: border-color 0.25s;
+  margin: 0 0 0 5px ;  
+  color: white;
+}
+.white_border:hover{
+  border-color: white;
+}
+.black_border:hover{
+  border-color: black;
+}
